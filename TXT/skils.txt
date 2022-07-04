@@ -1,0 +1,13 @@
+Скилы, которые будут изучены на курсе Вадима Ксендзова:
+Базовая теория, 
+HTTP, 
+JSON, 
+XML, 
+Charles и Fiddler, 
+Dev Tools, 
+VPN, 
+iOS, 
+Android, 
+ADB, 
+terminal Linux, 
+SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join
